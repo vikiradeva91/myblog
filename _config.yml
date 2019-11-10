@@ -1,0 +1,25 @@
+
+
+title: My site
+email: viki.radeva91@gmail.com
+description: hi there!
+baseurl: ""
+url: "" 
+twitter_username: 
+github_username:  vikiradeva91
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
